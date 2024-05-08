@@ -18,7 +18,7 @@ Pokémon Showdown is many things:
 
 - A **web site** you can use for Pokémon battling
 
-  - http://pokemonshowdown.com/
+  - [pokemonshowdown](./pokemon-showdown)
 
 - A **JavaScript library** for simulating Pokémon battles and getting Pokédex data
 
